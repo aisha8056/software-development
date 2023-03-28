@@ -1,0 +1,10 @@
+
+print('Welcome, wat is uw bestelling?')
+pizza = input('Welke pizza wilt u hebben?')
+print (medium)
+medium = input('Ik wil een medium pizza')
+print (medium)
+kleine = input('Ik wil een kliene pizza')
+print(kleine)
+groot = input('Ik wil een groote pizza')
+print(groot)
